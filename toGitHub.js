@@ -1,1 +1,1 @@
-console.log("Hello from toGitHub.js");
+console.log("Hello World");
